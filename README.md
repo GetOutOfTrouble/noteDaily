@@ -1,1 +1,2 @@
 # noteDaily
+for daily notes
